@@ -11,15 +11,7 @@
 <details>
   <summary>code block</summary>
 
-'''
-code block
-code block
-'''
-
-</details>
-
-
-  ```javascript
+```javascript
 {
   "Title": "Alien",
   "Year": "1979",
@@ -61,6 +53,8 @@ code block
   "Response": "True"
 }
 ```
+
+</details>
 
 ### Rechecher 🌍 films : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
