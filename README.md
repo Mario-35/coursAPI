@@ -7,8 +7,7 @@
 
 
 ### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
-<details open>
-  <summary>result</summary>
+
   ```javascript
 {
   "Title": "Alien",
@@ -51,7 +50,6 @@
   "Response": "True"
 }
 ```
-</details>
 
 ### Rechecher 🌍 films : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
