@@ -9,7 +9,7 @@
 ### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 <details open>
   <summary>result</summary>
-  ```json
+  ```js
   {
   "Title": "Alien",
   "Year": "1979",
