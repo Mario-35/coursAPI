@@ -1,5 +1,8 @@
 # Cours sur les API
 
+### IMDB 🌍 [Imdb](https://www.imdb.com/fr/) 
+### OMDB 🌍 [omdb](http://www.omdbapi.com/) 
+
 ### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
 ### Rechecher 🌍 films : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
