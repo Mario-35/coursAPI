@@ -1,6 +1,6 @@
 # Cours sur les API
 
-### Rechecher 🌍 Sfilm : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
+### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
 ### Rechecher 🌍 films : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
