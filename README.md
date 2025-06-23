@@ -8,6 +8,17 @@
 
 ### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
 
+<details>
+  <summary>code block</summary>
+
+'''
+code block
+code block
+'''
+
+</details>
+
+
   ```javascript
 {
   "Title": "Alien",
