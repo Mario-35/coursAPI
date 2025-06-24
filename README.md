@@ -6,8 +6,7 @@
 
 
 
-### Rechecher 🌍 film : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&t=alien) 
-### Rechecher 🌍 http://www.omdbapi.com/?apikey=d7194885&t=alien
+### Rechecher 🌍 film : Alien 🡺 http://www.omdbapi.com/?apikey=d7194885&t=alien
 <details>
   <summary>Resultat</summary>
 
@@ -56,7 +55,7 @@
 
 </details>
 
-### Rechecher 🌍 films : Alien 🡺 [omdb](http://www.omdbapi.com/?apikey=d7194885&s=alien) 
+### Rechecher 🌍 films : Alien 🡺 http://www.omdbapi.com/?apikey=d7194885&s=alien
 
 <details>
   <summary>Resultat</summary>
@@ -142,7 +141,7 @@
 
 </details>
 
-### Rechecher 🌍 films : Alien 🡺 [tmdb](https://api.themoviedb.org/3/search/movie?api_key=aa8b43b8cbce9d1689bef3d0c3087e4d&query=alien)
+### Rechecher 🌍 films : Alien 🡺 https://api.themoviedb.org/3/search/movie?api_key=aa8b43b8cbce9d1689bef3d0c3087e4d&query=alien
 <details>
   <summary>Resultat</summary>
 
