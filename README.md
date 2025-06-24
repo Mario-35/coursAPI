@@ -2,7 +2,7 @@
 
 ### IMDB 🌍 [Imdb](https://www.imdb.com/fr/) 
 ### OMDB 🌍 [omdb](http://www.omdbapi.com/) 
-### TMDB 🌍 [tmdb](https://www.themoviedb.org/?language=fr) 
+### TheMovieDB 🌍 [tmdb](https://www.themoviedb.org/?language=fr) 
 
 
 
